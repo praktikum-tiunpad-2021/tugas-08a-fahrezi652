@@ -1,9 +1,9 @@
-> **TODO: UBAH "NAMA" DAN "NPM" MENJADI NAMA DAN NPM KALIAN PADA KEMUDIAN HAPUS BARIS INI!**
+
 # Tugas Praktikum Struktur Data 08
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## Naufal Fahrezi - 140810200035
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
